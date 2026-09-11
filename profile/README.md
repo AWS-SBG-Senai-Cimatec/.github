@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./profile/aws-student-builder-group-logo-parallax.png" alt="AWS Student Builder Group SENAI CIMATEC Logo" width="180" />
+  <img src="/profile/aws-student-builder-group-logo-parallax.png" alt="AWS Student Builder Group SENAI CIMATEC Logo" width="680" />
 
   # ☁️ AWS Student Builder Group – SENAI CIMATEC
 
